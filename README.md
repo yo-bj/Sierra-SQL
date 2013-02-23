@@ -1,8 +1,8 @@
 # About this repo
-This is primarily a place for sharing any small apps or DNA queries related to III's ILS Sierra. I'm storing all Sierra-related stuff here, unless there's an app that grows to the point where it needs to be pushed into its own repo. Consider this as a stepping stone for me to getting into github properly. :cP
+This is primarily a place for sharing any DNA queries related to III's ILS Sierra. I'm storing all Sierra-related query stuff here, unless there's an app that grows to the point where it needs to be pushed into its own repo. Consider this as a stepping stone for me to getting into github properly. :cP
 
 # Required disclaimer
-Everything here is as-is. Run at own risk. It is not my fault that your computer rickrolls you after running one of the scripts below.
+**Everything here is as-is. Run at your own risk.** It is not my fault that your computer rickrolls you after running one of the scripts below.
 
 In addition, the queries found in this repo are based on the local setup that my library has with their ILS. YMMV with several of these queries, and it would be worthwhile to ask someone who is familiar with the local data setup if you are looking to run a query on a particular piece of data.
 
